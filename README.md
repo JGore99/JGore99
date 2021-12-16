@@ -14,7 +14,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 <div align="center">
-  <img  src="/Users/Jeff/code/sei/projects/jgore99/images/PXL_20210504_120744048.PORTRAIT.jpg" alt="puppy" width="500">
+  <img  src="images/PXL_20210504_120744048.PORTRAIT.jpg" alt="puppy" width="500">
 
 <p>&nbsp;</p>
 
