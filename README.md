@@ -2,17 +2,25 @@
 <div align="center">
   <img  src="images/PXL_20210504_120744048.PORTRAIT.jpg" alt="puppy" width="550">
   <h5>(actual Jeff may vary)</h5>
-  <p>&nbsp;</p>
+<p>&nbsp;</p>
+
+---------------------------------------------------------------------------------------------
+
   <h2>Jeff Gore</h2>
-  
+
+ --------------------------------------------------------------------------------------------
+<p>&nbsp;</p>
+
 </div>
 <div align="center">
 
   [![Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgore99&show_icons=true&theme=github_dark)](https://github.com/jgore99)
-  
+
 
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgore99&layout=compact&theme=github_dark)](https://github.com/jgore99)
+
+---------------------------------------------------------------------------------------------
 
 <h2>About me:</h2>
 
@@ -21,6 +29,9 @@
 </h3> 
   
 <div>
+
+---------------------------------------------------------------------------------------------
+
   <p>&nbsp;</p>
   <h3>Contact info:</h3>
   <!-- <a href="https://www.benmanley.biz/"><img src="https://img.shields.io/badge/-Personal_Website-000000?style=flat-square&logo=Coderwall&logoColor=white" />  </a> -->
@@ -54,13 +65,19 @@
       <a href="#"><img src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack" />  </a>
       <!-- <a href="#"><img src="https://img.shields.io/badge/-Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white" />  </a> -->
     </div>
-  <p>&nbsp;</p>
+<p>&nbsp;</p>  
+
+---------------------------------------------------------------------------------------------
+
   <div>
     <h3>Comfortable working in:</h3>
       <a href="#"><img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/mac%20os-000000?style=flat-square&for-the-badge&logo=macos&logoColor=F0F0F0" />  </a>
 
   </div>
+
+---------------------------------------------------------------------------------------------
+
 
 </div>
 
