@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<!--
+
 **JGore99/JGore99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,5 +12,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
+
+### My Github Stats
+[![Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgore99&hide=contribs,prs&show_icons=true&theme=github_dark)](https://github.com/jgore99/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgore99&layout=compact&theme=github_dark)](https://github.com/jgore99/github-readme-stats)
