@@ -13,8 +13,15 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
+<div align="center">
+  <img  src="/Users/Jeff/code/sei/projects/jgore99/images/PXL_20210504_120744048.PORTRAIT.jpg" alt="puppy" width="500">
+
+<p>&nbsp;</p>
 
 
-### My Github Stats
-[![Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgore99&hide=contribs,prs&show_icons=true&theme=github_dark)](https://github.com/jgore99/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgore99&layout=compact&theme=github_dark)](https://github.com/jgore99/github-readme-stats)
+[![Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgore99&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark)](https://github.com/jgore99)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgore99&layout=compact&theme=github_dark)](https://github.com/jgore99)
+</div>
+
